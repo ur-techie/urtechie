@@ -587,7 +587,7 @@ parcelRequire = function(e, r, t, n) {
                     document.title = "Conga!"
                 });
                 var d = document.createElement("button");
-                d.textContent = "Let's dance cutie🕺",
+                d.textContent = "Trust Me",
                 d.addEventListener("click", function(e) {
                     d.parentNode.removeChild(d),
                     i.appendChild(o),
